@@ -10,6 +10,8 @@ This repository contains my personalized Neovim configuration optimized for Pyth
 - File navigation and management
 - Git integration
 - Custom key mappings for efficiency
+- Interactive dashboard for easy navigation
+- Python debugging tool for efficient troubleshooting
 
 ## Installation
 
